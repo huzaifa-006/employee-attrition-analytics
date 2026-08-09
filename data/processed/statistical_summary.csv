@@ -1,0 +1,2 @@
+Mean_Salary,Median_Salary,Salary_Std,Salary_Skewness,Experience_Salary_Correlation,Overall_Attrition_Rate,Overtime_Attrition_Rate,Non_Overtime_Attrition_Rate,T_Test_P_Value
+127969.24125,119197.5,62673.6326060359,0.3551478999203455,0.8204686812740324,11.799999999999999,24.081632653061224,0.0,1.2407808265401103e-31
